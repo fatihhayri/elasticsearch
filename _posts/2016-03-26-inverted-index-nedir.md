@@ -40,6 +40,8 @@ Belki aklınıza 1. döküman neden gelmedi sorusu gelebilir. Burada dikkat etme
 aynı değildir. Bu yüzden biz `yazılım` diye arattığımızda `"yazılım"` terimi geçen 
 dökümanlar gelmeyecektir.
 
+Nokta olmamış.
+
 #### Kaynakça: 
 
  - [Inverted Index](https://www.elastic.co/guide/en/elasticsearch/guide/current/inverted-index.html)
